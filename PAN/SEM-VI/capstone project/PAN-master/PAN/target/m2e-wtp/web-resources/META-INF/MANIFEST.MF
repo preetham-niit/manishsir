@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Pv preetham
+Build-Jdk: 10.0.2
+Implementation-Title: PAN
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.pan
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/PAN
+Created-By: Maven Integration for Eclipse
+
